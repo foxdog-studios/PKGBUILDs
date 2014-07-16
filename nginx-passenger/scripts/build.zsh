@@ -29,9 +29,6 @@ rm $extract/.AURINFO
 mv $extract/* .
 rmdir $extract
 
-# Update the PKGBUILD.
-patch < PKGBUILD.patch
-
 # Build the package.
 makepkg
 
