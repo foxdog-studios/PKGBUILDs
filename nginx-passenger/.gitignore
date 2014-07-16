@@ -1,0 +1,10 @@
+/pkg/
+/src/
+
+/PKGBUILD
+/cleanup-headers.patch
+/logrotate
+/nginx-1.6.0.tar.gz
+/nginx-passenger-1.6.0-5-x86_64.pkg.tar.xz
+/release-4.0.46.tar.gz
+/service
